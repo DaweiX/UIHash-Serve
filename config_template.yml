@@ -1,0 +1,21 @@
+mysql:
+  DATABASE_HOST: 'localhost'
+  DATABASE_USER: ''
+  DATABASE_PASSWORD: ''
+  DATABASE_NAME: ''
+
+path: 
+  APK: ''
+  DATA: ''
+
+uihash:
+  SIMPLE_UI: 3
+  TYPE_COUNT: 10
+  GRID_SIZE: 5,5
+  IMG_SIZE: 28,28
+
+log:
+  LEVEL: 'DEBUG'
+  COLLECT: ''
+  UIHASH: ''
+  DATABASE: ''
